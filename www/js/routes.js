@@ -42,7 +42,7 @@ angular.module('app.routes', [])
   })
 
   .state('workout', {
-    url: '/workout',
+    url: '/workout/:videoId',
     templateUrl: 'templates/workout.html',
      controller: 'workoutCtrl',  
   })

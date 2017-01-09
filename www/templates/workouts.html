@@ -1,7 +1,7 @@
 <ion-view title="Workouts" id="page4">
   <ion-content padding="true" class="has-header">
     <ion-item collection-repeat="video in videos" class="row responsive-sm">     
-  <a ui-sref="workout({id: 'video.id'})"><div class="col">{{video.title}} {{video.id}}</div></a>
+  <a ui-sref="workout({videoId: video.id})"><div class="col">{{video.title}} {{video.id}}</div></a>
 
   
     </ion-item>
