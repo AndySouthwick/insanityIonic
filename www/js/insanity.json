@@ -1,0 +1,107 @@
+
+    [{
+    "id": "1",
+    "title": "Fit Test",    
+    "source": "http://laravel.andrewsouthwick.com/01%20-%20Fit%20Test.MP4",
+    "type": "video/mp4",
+    "tag": "Work It Hard!!"
+    },
+    {
+    "id": "2",
+    "title": "Plyometric Cardio Circut",   
+    "source": "http://laravel.andrewsouthwick.com/02 - Plyometric Cardio Circuit.MP4",
+    "type": "video/mp4",
+    "tag": "Stay Strong!!"
+    },
+    {
+    "id": "3",
+    "title": "Cardio Power Resistance", 
+    "source": "http://laravel.andrewsouthwick.com/03 - Cardio Power & Resistance.MP4",
+    "type": "video/mp4",
+    "tag": "Live Strong!!"
+    },
+      {
+    "id": "4",
+    "title": "Cardio Recovery", 
+    "source": "http://laravel.andrewsouthwick.com/04 - Cardio Recovery.MP4",
+    "type": "video/mp4",
+    "tag": "Be Strong!!"
+    },
+    {
+    "id": "5",
+    "title": "Pure Cardio", 
+    "source": "http://laravel.andrewsouthwick.com/05 - Pure Cardio.MP4",
+    "type": "video/mp4",
+    "tag": "You Have Got This!!"
+    },
+    {
+    "id": "6",
+    "title": "Cardio Abs", 
+    "source": "http://laravel.andrewsouthwick.com/06 - Cardio Abs.MP4",
+    "type": "video/mp4",
+    "tag": "Do IT!!"
+    },
+    {
+    "id": "7",
+    "title": "Core Cardio & Balance", 
+    "source": "http://laravel.andrewsouthwick.com/07 - Core Cardio & Balance.MP4",
+    "type": "video/mp4",
+    "tag": "You Can!!"
+    },
+    {
+    "id": "8",
+    "title": "Max Interval Circuit", 
+    "source": "http://laravel.andrewsouthwick.com/08 - Max Interval Circuit.MP4",
+    "type": "video/mp4",
+    "tag": "You Got This!"
+    },
+    {
+    "id": "9",
+    "title": "Max Interval Plyo", 
+    "source": "http://laravel.andrewsouthwick.com/09 - Max Interval Plyo.MP4",
+    "type": "video/mp4",
+    "tag": "You Got This!"
+    },
+    {
+    "id": "9",
+    "title": "Max Interval Plyo", 
+    "source": "http://laravel.andrewsouthwick.com/09 - Max Interval Plyo.MP4",
+    "type": "video/mp4",
+    "tag": "You Got This!"
+    },
+    {
+    "id": "10",
+    "title": "Max Cardio Conditioning", 
+    "source": "http://laravel.andrewsouthwick.com/10 - Max Cardio Conditioning.MP4",
+    "type": "video/mp4",
+    "tag": "You Got This!"
+    },
+    {
+    "id": "11",
+    "title": "Max Recovery", 
+    "source": "http://laravel.andrewsouthwick.com/11 - Max Recovery.MP4",
+    "type": "video/mp4",
+    "tag": "You Got This!"
+    },
+    {
+    "id": "12",
+    "title": "Insane Abs", 
+    "source": "http://laravel.andrewsouthwick.com/12 - Insane Abs.MP4",
+    "type": "video/mp4",
+    "tag": "You Got This!"
+    },
+    {
+    "id": "13",
+    "title": "Max Interval Sports Training", 
+    "source": "http://laravel.andrewsouthwick.com/13 - Max Interval Sports Training.MP4",
+    "type": "video/mp4",
+    "tag": "You Got This!"
+    },
+     {
+    "id": "14",
+    "title": "Upper Body Weight Training", 
+    "source": "http://laravel.andrewsouthwick.com/14 - Upper Body Weight Training.MP4",
+    "type": "video/mp4",
+    "tag": "You Got This!"
+    }]
+    
